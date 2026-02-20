@@ -18,14 +18,14 @@
 
 ## 🎯 Bewertungskriterien
 
-|Kriterium|Priorität|
-|---|---|
-|Performance|⭐⭐⭐ Hoch|
-|Gaming|⭐⭐⭐ Hoch|
-|Software-Verfügbarkeit|⭐⭐⭐ Hoch|
-|Stabilität|⭐⭐ Mittel|
-|Benutzerfreundlichkeit|⭐⭐ Mittel|
-|Community|⭐ Niedrig|
+| Kriterium              | Priorität |
+| ---------------------- | --------- |
+| Performance            | ⭐⭐⭐ Hoch  |
+| Gaming                 | ⭐⭐⭐ Hoch  |
+| Software-Verfügbarkeit | ⭐⭐ Mittel |
+| Stabilität             | ⭐⭐⭐ Hoch  |
+| Benutzerfreundlichkeit | ⭐⭐ Mittel |
+| Community              | ⭐ Niedrig |
 
 ---
 
